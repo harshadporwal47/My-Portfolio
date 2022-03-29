@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portfolio-887fb"
+  },
+  "targets": {
+    "portfolio-887fb": {
+      "hosting": {
+        "portfolio": [
+          "harshadporwal"
+        ]
+      }
+    }
+  }
+}
